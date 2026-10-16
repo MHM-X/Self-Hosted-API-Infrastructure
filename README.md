@@ -16,14 +16,6 @@ The backend was migrated from a Backend-as-a-Service architecture to a manually 
 
 The project is built in three phases, and each phase builds on the previous one:
 
-| Phase | Focus |
-| ----- | ----- |
-| **Phase 1** | Design and deploy the infrastructure: private network, firewall, load balancer, application servers, and database |
-| **Phase 2** | Containerize every service with Docker and manage them with Docker Compose |
-| **Phase 3** | Automate testing and image publishing with a GitHub Actions CI/CD pipeline |
-
-The public API is live at **`https://api.white.ps`**, served through Cloudflare Tunnel without exposing the internal servers directly to the internet.
-
 ---
 
 ## 🗺️ Phases
