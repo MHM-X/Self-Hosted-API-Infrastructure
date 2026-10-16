@@ -1,4 +1,4 @@
-# Production-Style DevOps Home Lab — Phase 1
+# Self-Hosted API Infrastructure Lab — Phase 1
 
 ## Overview
 
@@ -265,7 +265,7 @@ Cloudflare Tunnel was used to provide external access without exposing the inter
 ---
 ---
 
-# Cloud Infrastructure Lab — Phase 2
+# Self-Hosted API Infrastructure — Phase 2.0
 
 This phase focuses on containerizing the infrastructure built in Phase 1 using Docker.
 
@@ -750,7 +750,9 @@ sudo docker volume ls
 
 ---
 
-# Part 2 — Docker Compose & Internal Reverse Proxy
+# Self-Hosted API Infrastructure — Phase 2.1
+
+# Docker Compose & Internal Reverse Proxy
 
 ---
 
