@@ -275,7 +275,7 @@ The goal is to transform the manually configured services into containerized ser
 
 ## Architecture
 
-![Architecture](architecture.png)
+![Architecture](images/phase2-architecture.png)
 
 ---
 
@@ -756,7 +756,7 @@ sudo docker volume ls
 
 ## Architecture
 
-![Architecture2](architecture2.png)
+![Architecture2](images/phase3-architecture.png)
 
 ---
 
