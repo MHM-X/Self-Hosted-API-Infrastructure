@@ -138,7 +138,9 @@ Nginx Load Balancer
 | Virtualization         | VirtualBox                |
 
 <div align="center">
-
+  
+---
+  
 Part of my Cloud &amp; DevOps learning roadmap.
 
 </div>
