@@ -10,7 +10,7 @@ Instead of building Docker images manually on the servers, every build now runs 
 
 ## Pipeline Architecture
 
-![Pipeline Architecture](pipeline.png)
+![Pipeline Architecture](images/phase-3-architecture.png)
 
 ```text
 Manual Trigger (workflow_dispatch)
