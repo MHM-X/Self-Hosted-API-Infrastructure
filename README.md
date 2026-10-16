@@ -41,7 +41,7 @@ The public API is live at **`https://api.white.ps`**, served through Cloudflare 
       <p>
         <code>OPNsense</code> · <code>Nginx</code> · <code>Flask</code> · <code>Gunicorn</code> · <code>PostgreSQL</code> · <code>Cloudflare Tunnel</code>
       </p>
-      <a href="./phase-1/README.md"><b>Read Phase 1 →</b></a>
+      <a href="./phase-1.md"><b>Read Phase 1 →</b></a>
     </td>
   </tr>
 
@@ -52,14 +52,14 @@ The public API is live at **`https://api.white.ps`**, served through Cloudflare 
       <p>
         <code>Docker</code> · <code>Docker Compose</code> · <code>Docker Networks</code> · <code>Volumes</code> · <code>Docker Hub</code>
       </p>
-      <a href="./phase-2/README.md"><b>Read Phase 2 →</b></a>
+      <a href="./phase-2.md"><b>Read Phase 2 →</b></a>
     </td>
     <td width="55%" align="center">
       <a href="./phase-2/README.md">
         <img src="images/phase-2.0-architecture.png" alt="Phase 2.0 Architecture" width="100%"/>
       </a>
       <br><br>
-      <a href="./phase-2/README.md">
+      <a href="./phase-2.md">
         <img src="images/phase-2.1-architecture.png" alt="Phase 2.1 Architecture" width="100%"/>
       </a>
     </td>
@@ -77,7 +77,7 @@ The public API is live at **`https://api.white.ps`**, served through Cloudflare 
       <p>
         <code>GitHub Actions</code> · <code>pytest</code> · <code>Docker Hub</code> · <code>Secrets</code>
       </p>
-      <a href="./phase-3/README.md"><b>Read Phase 3 →</b></a>
+      <a href="./phase-3.md"><b>Read Phase 3 →</b></a>
     </td>
   </tr>
 </table>
