@@ -6,7 +6,7 @@
 
 </div>
 
----
+
 
 ## 📖 About
 
@@ -16,7 +16,7 @@ The backend was migrated from a Backend-as-a-Service architecture to a manually 
 
 The project is built in three phases, and each phase builds on the previous one:
 
----
+
 
 ## 🗺️ Phases
 
