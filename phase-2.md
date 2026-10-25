@@ -491,7 +491,7 @@ sudo docker volume ls
 
 ## Architecture
 
-![Architecture2](images/phase-2.0-architecture.png)
+![Architecture2](images/phase-2.1-architecture.png)
 
 ---
 
