@@ -8,7 +8,7 @@ This project is the first infrastructure phase of my Cloud & DevOps learning roa
 
 ## Architecture
 
-![Architecture](images/phase1-architecture.png)
+![Architecture](images/phase-1-architecture.png)
 
 ---
 
